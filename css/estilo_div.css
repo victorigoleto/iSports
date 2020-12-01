@@ -1,0 +1,85 @@
+#divFundo {
+	min-height: 800px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #E2E2E2;
+}
+#divMenuzinho {
+	height: 50px;
+	width: 900px;
+	position: relative;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+#divFundoTopo {
+	height: 200px;
+	width: 900px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	background-image: url(../imagens/Topo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#divLogin {
+	height: 30px;
+	width: 500px;
+	margin-top: 15px;
+	margin-left: 370px;
+}
+
+#divBanner {
+	min-height: 300px;
+	width: 900px;
+	margin-top: 10px;
+	margin-left: 40px;
+	position: relative;
+	float: none;
+	background-color: #FFF;
+}
+#divPesquisa {
+	height: 110px;
+	width: 510px;
+	margin-top: 10px;
+	margin-left: 370px;
+	position: relative;
+}
+
+#divFundinho {
+	min-height: 1000px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	position:relative;
+}
+#divMenu {
+	float: left;
+	height: 350px;
+	width: 200px;
+	position: static;
+}
+#divMiolo {
+	min-height: 700px;
+	position: relative;
+	width: 690px;
+	float: right;
+	background-color: #FFF;
+}
+#divProduto1 {
+	width: 230px;
+	float: left;
+}
+
+#divRodape {
+	min-height: 190px;
+	width: 900px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	background-color: #6EA7EE;
+}

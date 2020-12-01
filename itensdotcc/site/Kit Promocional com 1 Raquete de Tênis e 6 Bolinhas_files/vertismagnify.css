@@ -1,0 +1,42 @@
+﻿.cursorFrame
+{
+	position: absolute;
+	visibility: visible;
+	display: block;
+	top: 0px;
+	left: 0px;
+	width: 0px;
+	height: 0px;
+	border: 1px solid #808080;
+	z-index: 3;
+}
+.imagePane
+{
+	position: relative;
+}
+.zoomPane
+{
+	top: 0px;
+	left: 0px;
+	width: 0px;
+	height: 0px;
+	border: 1px solid #808080;
+	z-index: 1;
+	visibility: visible;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	float: left;
+}
+.imageZoomPane
+{
+	position: relative;
+}
+.opacityPane
+{
+	background-color:#999999;
+	width: 0px;
+	height: 0px;
+	z-index: 2;
+	position: absolute;
+}

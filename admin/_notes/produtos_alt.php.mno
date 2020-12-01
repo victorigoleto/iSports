@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recordMarcas" value="name:codigo_mar;datatype:int,name:nome_mar;datatype:string" />
+	<infoitem key="UD_recordCategorias" value="name:codigo_cat;datatype:int,name:nome_cat;datatype:string" />
+</info>
